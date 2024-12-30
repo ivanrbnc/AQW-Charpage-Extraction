@@ -8,4 +8,4 @@
 2. `get_inventory(10456604, ["class", "armor"])`
 3. `get_badges(10456604, categories=["support", "exclusive"])`
 4. `get_inventory(10456604, categories=["InvalidCategory"])`
-5. `get_character_id(pendekar muda)`
+5. `get_character_id('pendekar muda')`
